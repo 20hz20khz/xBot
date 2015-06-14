@@ -1,2 +1,4 @@
-"xbot":["#x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x#\n#x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x#\n#x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x#\n#x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x#\n#x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x#\n#x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x#\n#x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x#\n"],
+"xbot":["#[xline1:#setxline#][xline2:#setxline#][xline3:#setxline#]fivexlines#"],
+	"fivexlines":["#xline1#\n#xline2#\n#xline1#\n#xline2#\n#xline1#\n","#xline1#\n#xline2#\n#xline3#\n#xline2#\n#xline1#\n"],
+	"setxline":["#x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x##x#"],
 	"x":["╱","╲","╳"],
